@@ -1,7 +1,7 @@
 <h1>Hi there! Good to see you here</h1>
 
 <p>I'm Sthéfani, a fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13" /> <b>Brazil</b>. </p>
-<p>My knowledge as a developer comes from a one year web development course from Trybe, and I also have a degree as a Mechanical Engineer from UFMG. In the past I had professional experiences with financial technology, management consultancy and entrepreneurship in the fashion industry. I love to talk about sustainability, fashion, engineering, and of course, technology and its impact in our lives. </p>
+<p>I was first introduced to programming in college, but I have strengthened my skills in software development through the Trybe web development program. With a degree in Mechanical Engineering from UFMG, I also worked as an entrepreneur for four years and have experience in financial technology, management consulting, and the fashion industry. I enjoy talking about sustainability, fashion, engineering and technology. </p>
 
 <h3>Things I code with</h3>
 
@@ -25,8 +25,9 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![RSpec](https://img.shields.io/badge/rspec-%23FF0000.svg?style=for-the-badge&logo=rubygems&logoColor=white)
 
 
 ##
